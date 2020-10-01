@@ -2,7 +2,6 @@
  * Jerry Soong
  * Started: May 18, 2020
  * Ended: June 12, 2020
- * Summative Dodge Game
  */
 
 //Package statement. Remove to run?
